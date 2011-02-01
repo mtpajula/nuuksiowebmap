@@ -1,3 +1,10 @@
+$(document).ready(function () {
+
+	// Rounding corners
+	$('#nodelist').corner();
+});
+
+
 var lon = 25.0;
 var lat = 60.2;
 var zoom = 9;
